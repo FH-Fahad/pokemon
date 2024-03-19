@@ -1,6 +1,6 @@
 
 const add = (a, b) => {
-    // Adding two numbers
+    console.log('Adding', a, 'and', b);
     return a + b;
 }
 
