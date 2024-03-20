@@ -1,1 +1,12 @@
-Dummy Text File
+10 most popular Pokemon.
+
+1. Pikachu
+2. Charmander
+3. Bulbasaur
+4. Squirtle
+5. Jigglypuff
+6. Meowth
+7. Psyduck
+8. Snorlax
+9. Mewtwo
+10. Mew
