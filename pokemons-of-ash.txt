@@ -5,6 +5,11 @@
 3. Bulbasaur
 4. Squirtle
 5. Jigglypuff
+5.1. Eevee
+5.2. Vaporeon
+5.3. Flareon
+5.4. Jolteon
+5.5. Espeon
 6. Meowth
 7. Psyduck
 8. Snorlax
